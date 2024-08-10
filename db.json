@@ -1,0 +1,22 @@
+{
+  "Products": [
+    {
+      "image": "https://media.gettyimages.com/id/184969517/photo/marinara-pizza.jpg?s=612x612&w=0&k=20&c=5l07HQR40k9zYZ6Sc05Er58fvd_QHIIu3INiWApn6GY=",
+      "name": "Margretta-Mexican",
+      "price": 532,
+      "description": "with extra cheese",
+      "size": "Medium",
+      "toppings": "Chili Origano",
+      "id": "45"
+    },
+    {
+      "image": "https://media.gettyimages.com/id/938742222/photo/cheesy-pepperoni-pizza.jpg?s=612x612&w=0&k=20&c=D1z4xPCs-qQIZyUqRcHrnsJSJy_YbUD9udOrXpilNpI=",
+      "name": "Margreta-Macroni",
+      "price": 550,
+      "description": "with extra cheese",
+      "size": "Large",
+      "toppings": "Chili Origano",
+      "id": "10"
+    }
+  ]
+}
