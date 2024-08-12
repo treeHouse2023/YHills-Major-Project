@@ -85,4 +85,10 @@ npm start
 - **Navigation:** Tested across different devices for smooth transitions.
 - **CRUD Operations:** Verified adding, updating, and deleting items works as expected.
 - **Responsiveness:** Ensured the application is responsive on various screen sizes.
+- 
+## 🌐 Deployed Website
+
+You can visit the live application here: [Pizza Paradise on Vercel](https://vercel.com/nishants-projects-6b3be6a9/y-hills-major-project).
+
+**Note:** The deployed version does not include the `db.json` file, so data management features (like adding, updating, or deleting items) may not function as expected.
 
