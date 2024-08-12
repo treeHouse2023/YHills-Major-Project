@@ -90,5 +90,5 @@ npm start
 
 You can visit the live application here:[(https://vercel.com/nishants-projects-6b3be6a9/y-hills-major-project).](https://y-hills-major-project-r600734kq-nishants-projects-6b3be6a9.vercel.app/)
 
-**Note:** The deployed version does not include the `db.json` file, so data management features (like adding, updating, or deleting items) may not function as expected.
+**Note:** The deployed version was hosted using Vercel and does not include the `db.json` file, so data management features (like adding, updating, or deleting items) may not function as expected.
 
