@@ -59,7 +59,7 @@ function Products() {
                 </button>
                 <button
                   className="btn btn-warning"
-                  onClick={() => navigate(`/UpdateProducts/${product.id}`)}
+                  onClick={() => navigate(`/UpdateProduct/${product.id}`)}
                 >
                   Update
                 </button>
